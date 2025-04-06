@@ -4,7 +4,7 @@ Simple login and registration system where user can log in if they are registere
 <br />
 
 <h2>How to Use</h2>
-Add postgres library to java project. Create corresponding table in pgAdmin. Paste PostgreSQL table, database and user details into UserDetails class to connect to your database. Enjoy!
+Add postgres jdbc driver to java project. Create corresponding table in pgAdmin. Paste PostgreSQL table, database and user details into UserDetails class to connect to your database. Enjoy!
 <br />
 
 
@@ -13,6 +13,7 @@ Add postgres library to java project. Create corresponding table in pgAdmin. Pas
 - <b>Java SE 21</b>
 - <b>Swing (Library)</b>
 - <b>JDBC (Library)</b>
+- <b>PostgreSQL JDBC Driver</b>
 
 <h2>Environments Used</h2>
 
